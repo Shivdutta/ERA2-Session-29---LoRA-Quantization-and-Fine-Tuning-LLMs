@@ -46,6 +46,8 @@ The code provided is for building a chatbot interface using the Gradio library, 
 
 ![image-5](S29-gradio.png)
 
+https://huggingface.co/spaces/Shivdutta/S29-phi35-qlora-finefuned-gguf
+
 # Notes from Session:
 
 ## 1. PEFT (Parameter-Efficient Fine-Tuning)
